@@ -1,0 +1,1 @@
+module.exports = [{ "id": 1, "name": "Tivi Sony 32 inch", "quantity": 10, "brand": "Sony" }, { "id": 2, "name": "Tu lanh Aqua", "quantity": 30, "brand": "Aqua" }, { "id": 3, "name": "May giat Elextrolux 8.0 lit", "quantity": 69, "brand": "Elextrolux" }]
